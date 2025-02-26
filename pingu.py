@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/arashwan-evlo/EvLo/main/pingu.py
 #nohup python3 ping_script.py &
 #pip install ping3
 
